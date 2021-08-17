@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+Packages/IronCarp.AgentEventSystem/
+
+Packages/IronCarpStudios.AgentEventSystem/
+
+Packages/IronCarpStudios.Platformer2dExample/
